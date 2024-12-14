@@ -1,4 +1,4 @@
-# KateVR landing page
+# KateVR
 
 
 - HTML, CSS (SCSS), JS
