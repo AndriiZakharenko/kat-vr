@@ -1,4 +1,4 @@
-# KateVR
+# KatVR
 
 
 - HTML, CSS (SCSS), JS
