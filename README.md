@@ -4,6 +4,7 @@
 - HTML, CSS (SCSS), JS
 - BEM
 - Adaptive
+- Parcel
 
 ## Demo Links
 
