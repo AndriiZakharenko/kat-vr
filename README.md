@@ -1,9 +1,24 @@
-# Dia landing page
-- Implemented landing page according to [Figma design](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370)
+# KatVR
 
-# Specifications
-- The page was adapted to the desktop, tablet and mobile version
-- HTML, SCSS, JS technologies were used
-- Burger menu
-- Semantic HTML, BEM, Grid, Flex
-- Forms + validation
+### Description
+
+- Created a landing page
+
+### Stack
+
+- HTML (BEM)
+- CSS (SCSS)
+- JS
+- Adaptive
+
+### Tools
+
+- ESlint
+- Jest
+- Prettier
+- Parcel
+
+## Demo Links
+
+- [Demo](https://AndriiZakharenko.github.io/kat-vr/)
+- [Figma](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370)
